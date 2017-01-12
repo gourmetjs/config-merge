@@ -1,0 +1,15 @@
+{
+  "name": "config-merge",
+  "description": "Merges objects with special handling of arrays and non-plain objects",
+  "version": "0.1.11",
+  "license": "MIT",
+  "repository": "https://github.com/gourmetjs/config-merge",
+  "main": "lib/merge.js",
+  "scripts": {
+    "lint": "eslint lib"
+  },
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-gourmet": "^1.0.0"
+  }
+}
